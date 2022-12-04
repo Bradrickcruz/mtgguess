@@ -1,2 +1,2 @@
-# mtguess
+# mtgguess
 Magic, The Gathering guess game
